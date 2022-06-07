@@ -1,0 +1,8 @@
+- Redux dung de quann ly cac state (co the goi la cac  bien) dung chung, khai bao mot lan, goi khi can su dung, doi phai khai bao lai o cac component, tranh viec overload
+- De su dung redux trong du an react co san cai ba thu vien nhu sau: yarn add redux react-redux @reduxjs/toolkit
+- Sau Khi cai dat xong thu vien, bat dau setup cau truc cua du an.
+- O Du An nay minh chu yeu tim hieu ve redux-toolkit. no cung tua nhu redux nhung de trien khai hon
+    - B1: khai bao mot thu muc ten la redux, chua cac store luu tru
+
+
+- Co the handle api gui len thong qua redux toolkit query, redux sage, redux thunk, cung co the handle bang redux thuong
