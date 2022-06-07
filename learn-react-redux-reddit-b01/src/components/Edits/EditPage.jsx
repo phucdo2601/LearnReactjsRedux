@@ -48,7 +48,7 @@ const EditPage = (props) => {
     /**
      * Update call api from server
      */
-     updateUserFunc(updateUser, dispatch);
+    updateUserFunc(updateUser, dispatch);
   };
 
   return (
